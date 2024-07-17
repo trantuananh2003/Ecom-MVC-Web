@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Project\\C#\\ECom-Web-Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08FF7686-09D2-439B-A8D0-80CDE0DF2119}|ModelClass\\ModelClass.csproj|d:\\all project\\c#\\ecom-web-page\\modelclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FF7686-09D2-439B-A8D0-80CDE0DF2119}|ModelClass\\ModelClass.csproj|solutionrelative:modelclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2452A2-7CFD-41E2-9A1F-FE0A83C655CE}|ECom-Web-Page\\ECom-Web-Page.csproj|d:\\all project\\c#\\ecom-web-page\\ecom-web-page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2452A2-7CFD-41E2-9A1F-FE0A83C655CE}|ECom-Web-Page\\ECom-Web-Page.csproj|solutionrelative:ecom-web-page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EEA9F-1CF6-41CE-8367-0340EEDD5B80}|DataAccess\\DataAccess.csproj|d:\\all project\\c#\\ecom-web-page\\dataaccess\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EEA9F-1CF6-41CE-8367-0340EEDD5B80}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\All Project\\C#\\ECom-Web-Page\\ModelClass\\Class1.cs",
+              "RelativeDocumentMoniker": "ModelClass\\Class1.cs",
+              "ToolTip": "D:\\All Project\\C#\\ECom-Web-Page\\ModelClass\\Class1.cs",
+              "RelativeToolTip": "ModelClass\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:28:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\All Project\\C#\\ECom-Web-Page\\DataAccess\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\DbContext.cs",
+              "ToolTip": "D:\\All Project\\C#\\ECom-Web-Page\\DataAccess\\Data\\DbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:46:11.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\All Project\\C#\\ECom-Web-Page\\ECom-Web-Page\\Program.cs",
+              "RelativeDocumentMoniker": "ECom-Web-Page\\Program.cs",
+              "ToolTip": "D:\\All Project\\C#\\ECom-Web-Page\\ECom-Web-Page\\Program.cs",
+              "RelativeToolTip": "ECom-Web-Page\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:59:58.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
